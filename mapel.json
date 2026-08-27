@@ -1,4 +1,9 @@
 [
-  { "nama_mapel": "Pemrograman Web" },
-  { "nama_mapel": "Matematika" }
+  { "nama_mapel": "Matematika" },
+  { "nama_mapel": "Bahasa Indonesia" },
+  { "nama_mapel": "Fisika" },
+  { "nama_mapel": "Kimia" },
+  { "nama_mapel": "Bahasa Inggris" },
+  { "nama_mapel": "Ekonomi" },
+  { "nama_mapel": "PKWU" },
 ]
