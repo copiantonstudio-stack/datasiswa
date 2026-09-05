@@ -1,22 +1,102 @@
 [
-  { "nama": "ABDULLAH MU'ADZ", "nisn": "0085936220", "kelas": "XI F2" },
-  { "nama": "AHMAD NAUFAL", "nisn": "0054523083", "kelas": "XI F2" },
-  { "nama": "AIRA KASIH", "nisn": "0099734541", "kelas": "XI F2" },
-  { "nama": "AISYAH", "nisn": "0087316345", "kelas": "XI F2" },
-  { "nama": "ALIF ALFARIZI", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "ANEFA BIL KHOLIF", "nisn": "0095434716", "kelas": "XI F2" },
-  { "nama": "AZKIYA RAMADHANI", "nisn": "0091354320", "kelas": "XI F2" },
-  { "nama": "DIAN SILA", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "HAFFIZA", "nisn": "0109723412", "kelas": "XI F2" },
-  { "nama": "IMELDA DEA ANNISA", "nisn": "0096260030", "kelas": "XI F2" },
-  { "nama": "LINGGO KRISTOVER", "nisn": "0103383758", "kelas": "XI F2" },
-  { "nama": "M. RAIHAN", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "MAULID WIZA DINATUL", "nisn": "0098664756", "kelas": "XI F2" },
-  { "nama": "MELA SAGITA", "nisn": "0103512649", "kelas": "XI F2" },
-  { "nama": "MUSA", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "NUR AINY", "nisn": "0097987451", "kelas": "XI F2" },
-  { "nama": "NUR VADILA", "nisn": "0099893268", "kelas": "XI F2" },
-  { "nama": "NURLAILA SYAFITRI", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "RAHMAD HIDAYAT", "nisn": "0000000000", "kelas": "XI F2" },
-  { "nama": "SEVEN FEBRIANO HAIKAL", "nisn": "0098387033", "kelas": "XI F2" }
+  {
+    "nisn": "0085936220",
+    "nama": "ABDULLAH MU'ADZ",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0054523083",
+    "nama": "AHMAD NAUFAL",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0099734541",
+    "nama": "AIRA KASIH",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0087316345",
+    "nama": "AISYAH",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "ALIF ALFARIZI",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0095434716",
+    "nama": "ANEFA BIL KHOLIF",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0091354320",
+    "nama": "AZKIYA RAMADHANI",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "DIAN SILA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0109723412",
+    "nama": "HAFFIZA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0096260030",
+    "nama": "IMELDA DEA ANNISA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0103383758",
+    "nama": "LINGGO KRISTOVER",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "M. RAIHAN",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0098664756",
+    "nama": "MAULID WIZA DINATUL",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0103512649",
+    "nama": "MELA SAGITA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "MUSA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0097987451",
+    "nama": "NUR AINY",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0099893268",
+    "nama": "NUR VADILA",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "NURLAILA SYAFITRI",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0000000000",
+    "nama": "RAHMAD HIDAYAT",
+    "kelas": "XI F2"
+  },
+  {
+    "nisn": "0098387033",
+    "nama": "SEVEN FEBRIANO HAIKAL",
+    "kelas": "XI F2"
+  }
 ]
